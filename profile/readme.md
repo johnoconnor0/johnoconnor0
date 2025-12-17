@@ -22,8 +22,8 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 **Core Focus Areas:**
 - Enterprise Software Architecture & Integration
 - Cloud Infrastructure (AWS, Firebase, Azure, GCP)
-- Technical SEO & Performance Optimization
-- Ecommerce Platform Development
+- Technical SEO & Performance Optimisation
+- E-commerce Platform Development
 - Project Management & Team Leadership
 
 ---
@@ -34,8 +34,8 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 
 Architected and developed comprehensive integration solutions connecting HubSpot CRM and Xero accounting software with WordPress and WooCommerce platforms. This system delivers:
 
-- **Process Optimization:** Automated data synchronization eliminating manual data entry and reducing operational overhead
-- **Cost Reduction:** Streamlined transaction workflows to minimize payment processing fees
+- **Process Optimisation:** Automated data synchronisation eliminating manual data entry and reducing operational overhead
+- **Cost Reduction:** Streamlined transaction workflows to minimise payment processing fees
 - **Business Intelligence:** Real-time data flow enabling better decision-making across sales, marketing, and finance
 - **Scalability:** Enterprise-ready architecture supporting growing business needs
 
@@ -105,7 +105,7 @@ This project exemplifies my approach: combining deep technical expertise with st
 Recent articles and insights on web development, SEO, and enterprise solutions:
 
 - Visit my [author page on Weblifter](https://weblifter.com.au/author/john-oconnor) for the latest content
-- Topics include: Web Design, Software Development, Technical SEO, Ecommerce Optimization, and Enterprise Solutions
+- Topics include: Web Design, Software Development, Technical SEO, E-commerce Optimisation, and Enterprise Solutions
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -116,7 +116,7 @@ Recent articles and insights on web development, SEO, and enterprise solutions:
 I'm always interested in discussing:
 - Enterprise software architecture and integration challenges
 - Cloud infrastructure and scalability solutions
-- Technical SEO and performance optimization strategies
+- Technical SEO and performance optimisation strategies
 - Business opportunities and consulting engagements
 
 **Get in touch:**
