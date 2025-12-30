@@ -33,7 +33,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 
 ## GitHub Stats
 
-<table style="border-radius: 8px; border: 1px solid #e1e4e8; border-collapse: separate; overflow: hidden;">
+<table style="border-radius: 8px; border: 1px solid #e1e4e8; border-collapse: separate; overflow: hidden; width: 100%;">
 <tr>
 <td width="50%" style="border: none; background: transparent; padding: 12px;">
 
@@ -138,7 +138,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 ## Latest Articles
 
 <!-- Custom Article Cards - Full Width -->
-![Latest Articles](https://john-oconnor.vercel.app/api/readme/article-card?count=3&theme=light&v=2)
+![Latest Articles](https://john-oconnor.vercel.app/api/readme/article-card?count=3&theme=light&v=3)
 
 ---
 
