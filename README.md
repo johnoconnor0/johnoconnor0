@@ -33,13 +33,13 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 
 ## GitHub Stats
 
-<div align="center">
-  <img width="49%" alt="GitHub Stats" src="https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&v=2" />
-  <img width="49%" alt="GitHub Streak" src="https://john-oconnor.vercel.app/api/readme/streak?theme=light&v=2" />
-  <br />
-  <img width="100%" alt="Top Languages" src="https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=8&v=2" />
-</div>
+| GitHub Stats                                                                                                                          | GitHub Streak                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light\&show=contributions,commits,prs,stars,repos\&v=2) | ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light\&v=2) |
 
+| Top Languages                                                                                             |
+| --------------------------------------------------------------------------------------------------------- |
+| ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light\&langs_count=8\&v=2) |
 
 ---
 
