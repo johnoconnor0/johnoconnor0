@@ -122,7 +122,7 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 <div align="center">
 
 <!-- 3D Contribution Skyline -->
-![2025 Contributions](https://john-oconnor.vercel.app/api/readme/activity-skyline?year=2025&theme=dark&width=800&v=8)
+![2025 Contributions](https://john-oconnor.vercel.app/api/readme/activity-skyline?year=2025&width=800&v=9)
 
 </div>
 
