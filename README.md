@@ -33,61 +33,75 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 
 ## GitHub Stats
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<!-- Custom GitHub Stats Card -->
 ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&v=2)
 
-<!-- Custom Streak Card -->
+</td>
+<td width="50%">
+
 ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&v=2)
 
-<!-- Custom Coding Stats -->
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
 ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=8&v=2)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Technology Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="100%" colspan="2">
 
-<!-- Custom Skill Badges - All Categories -->
-![Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?style=for-the-badge&per_line=6&v=2)
+**All Skills**
 
-</div>
+![Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?style=for-the-badge&per_line=8&v=2)
 
-### By Category
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<details>
-<summary><b>Cloud & Infrastructure</b></summary>
-<br/>
-<div align="center">
+**Cloud & Infrastructure**
 
 ![Cloud Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Cloud%20%26%20Infrastructure&style=for-the-badge&v=2)
 
-</div>
-</details>
+</td>
+<td width="50%">
 
-<details>
-<summary><b>Development Platforms & CMS</b></summary>
-<br/>
-<div align="center">
+**Development Platforms**
 
 ![CMS Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Development%20Platforms&style=for-the-badge&v=2)
 
-</div>
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<details>
-<summary><b>Developer Tools & Analytics</b></summary>
-<br/>
-<div align="center">
+**Languages & Frameworks**
+
+![Languages](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Languages%20%26%20Frameworks&style=for-the-badge&v=2)
+
+</td>
+<td width="50%">
+
+**Developer Tools**
 
 ![Dev Tools](https://john-oconnor.vercel.app/api/readme/skill-badges?category=Developer%20Tools&style=for-the-badge&v=2)
 
-</div>
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -104,12 +118,8 @@ My expertise spans full-stack development, cloud architecture, and technical SEO
 
 ## Latest Articles
 
-<div align="center">
-
-<!-- Custom Article Cards -->
-![Latest Articles](https://john-oconnor.vercel.app/api/readme/article-card?count=3&theme=light&v=3)
-
-</div>
+<!-- Custom Article Cards - Full Width -->
+![Latest Articles](https://john-oconnor.vercel.app/api/readme/article-card?count=3&theme=light&v=2)
 
 ---
 
