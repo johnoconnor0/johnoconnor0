@@ -4,8 +4,11 @@
 
 **Driving Business Growth Through Technology & Innovation**
 
-<!-- Custom Social Badges -->
-![Social Links](https://john-oconnor.vercel.app/api/readme/social-badge?style=for-the-badge&v=2)
+<!-- Social Badges with Links -->
+[![LinkedIn](https://john-oconnor.vercel.app/api/readme/social-badge?platform=linkedin&style=for-the-badge&v=3)](https://www.linkedin.com/in/john-oconnor0/)
+[![GitHub](https://john-oconnor.vercel.app/api/readme/social-badge?platform=github&style=for-the-badge&v=3)](https://github.com/johnoconnor0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=safari&logoColor=white)](https://john-oconnor.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john@weblifter.com.au)
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://john-oconnor.vercel.app/api/readme/views?track=true&color=blue&label=Profile%20Views&v=2)
@@ -65,9 +68,10 @@ In my work, I blend technical depth with a strong sense of what users actually n
 ---
 
 **Get in touch:**
-- Business inquiries: [Web Lifter](https://weblifter.com.au)
-- Professional network: [LinkedIn](https://www.linkedin.com/in/john-oconnor0/)
-- Portfolio: [https://john-oconnor.vercel.app](https://john-oconnor.vercel.app)
+
+[![Web Lifter](https://img.shields.io/badge/Web%20Lifter-Business%20Inquiries-0077B5?style=for-the-badge)](https://weblifter.com.au)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-oconnor0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-333?style=for-the-badge&logo=safari&logoColor=white)](https://john-oconnor.vercel.app)
 
 ---
 
