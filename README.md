@@ -5,8 +5,8 @@
 **Driving Business Growth Through Technology & Innovation**
 
 <!-- Social Badges with Links -->
-[![LinkedIn](https://john-oconnor.vercel.app/api/readme/social-badge?platform=linkedin&style=for-the-badge&v=3)](https://www.linkedin.com/in/john-oconnor0/)
-[![GitHub](https://john-oconnor.vercel.app/api/readme/social-badge?platform=github&style=for-the-badge&v=3)](https://github.com/johnoconnor0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-oconnor0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnoconnor0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=safari&logoColor=white)](https://john-oconnor.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john@weblifter.com.au)
 
@@ -39,9 +39,11 @@ In my work, I blend technical depth with a strong sense of what users actually n
 
 ## Latest Articles
 
-| | | |
-|:---:|:---:|:---:|
-| [![Article 1](https://john-oconnor.vercel.app/api/readme/article-card?index=0&width=380&height=140&theme=light&v=4)](https://john-oconnor.vercel.app/api/readme/article-redirect/0) | [![Article 2](https://john-oconnor.vercel.app/api/readme/article-card?index=1&width=380&height=140&theme=light&v=4)](https://john-oconnor.vercel.app/api/readme/article-redirect/1) | [![Article 3](https://john-oconnor.vercel.app/api/readme/article-card?index=2&width=380&height=140&theme=light&v=4)](https://john-oconnor.vercel.app/api/readme/article-redirect/2) |
+<div align="center">
+
+[![Latest Article](https://john-oconnor.vercel.app/api/readme/article-card?index=0&width=600&height=140&theme=light&v=5)](https://john-oconnor.vercel.app/api/readme/article-redirect/0)
+
+</div>
 
 ---
 
@@ -49,7 +51,7 @@ In my work, I blend technical depth with a strong sense of what users actually n
 
 | GitHub Stats | GitHub Streak | Top Languages |
 |:---:|:---:|:---:|
-| ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&width=400&height=195&v=3) | ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&width=400&height=195&v=3) | ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=6&width=400&height=195&v=3) |
+| ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&width=400&height=195&v=4) | ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&width=400&height=195&v=4) | ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=6&width=400&height=195&v=4) |
 
 ---
 
