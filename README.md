@@ -24,7 +24,7 @@ I’m a web and software developer who enjoys building clean, reliable digital e
 In my work, I blend technical depth with a strong sense of what users actually need. I move between front-end polish and back-end logic, and I take pride in shipping work that’s both robust and easy to evolve. Beyond day-to-day delivery, I’m always looking for smarter patterns, better tooling, and small improvements that compound over time.
 
 **Core Focus Areas:**
-- BI Software & Optimisation Tools
+- BI Software & Financial Optimisation Tools
 - Enterprise Software Architecture & Integration
 - Cloud Infrastructure (AWS, Firebase, Azure, GCP)
 - MCP & Analytical Tool Development
@@ -39,20 +39,17 @@ In my work, I blend technical depth with a strong sense of what users actually n
 
 ## Latest Articles
 
-<!-- Custom Article Cards - Full Width -->
-![Latest Articles](https://john-oconnor.vercel.app/api/readme/article-card?count=3&theme=light&v=3)
+| | | |
+|:---:|:---:|:---:|
+| [![Article 1](https://john-oconnor.vercel.app/api/readme/article-card?index=0&width=380&height=140&theme=light&v=4)](https://john-oconnor.vercel.app/api/readme/article-redirect/0) | [![Article 2](https://john-oconnor.vercel.app/api/readme/article-card?index=1&width=380&height=140&theme=light&v=4)](https://john-oconnor.vercel.app/api/readme/article-redirect/1) | [![Article 3](https://john-oconnor.vercel.app/api/readme/article-card?index=2&width=380&height=140&theme=light&v=4)](https://john-oconnor.vercel.app/api/readme/article-redirect/2) |
 
 ---
 
 ## GitHub Stats
 
-| GitHub Stats                                                                                                                          | GitHub Streak                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light\&show=contributions,commits,prs,stars,repos\&v=2) | ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light\&v=2) |
-
-| Top Languages                                                                                             |
-| --------------------------------------------------------------------------------------------------------- |
-| ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light\&langs_count=8\&v=2) |
+| GitHub Stats | GitHub Streak | Top Languages |
+|:---:|:---:|:---:|
+| ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&width=400&height=195&v=3) | ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&width=400&height=195&v=3) | ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=6&width=400&height=195&v=3) |
 
 ---
 
