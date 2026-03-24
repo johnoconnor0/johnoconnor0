@@ -30,43 +30,6 @@ In my work, I blend technical depth with a strong sense of what users actually n
 
 ---
 
-![Skills](https://john-oconnor.vercel.app/api/readme/skill-badges?style=for-the-badge&per_line=8&v=2)
-
----
-
-## Latest Articles
-
-<div align="center">
-
-[![Article 1](https://john-oconnor.vercel.app/api/readme/article-card?index=0&width=1000&height=200&theme=light&v=7)](https://john-oconnor.vercel.app/api/readme/article-redirect/0)
-
-[![Article 2](https://john-oconnor.vercel.app/api/readme/article-card?index=1&width=1000&height=200&theme=light&v=7)](https://john-oconnor.vercel.app/api/readme/article-redirect/1)
-
-[![Article 3](https://john-oconnor.vercel.app/api/readme/article-card?index=2&width=1000&height=200&theme=light&v=7)](https://john-oconnor.vercel.app/api/readme/article-redirect/2)
-
-</div>
-
----
-
-## GitHub Stats
-
-| GitHub Stats | GitHub Streak | Top Languages |
-|:---:|:---:|:---:|
-| ![GitHub Stats](https://john-oconnor.vercel.app/api/readme/github-stats?theme=light&show=contributions,commits,prs,stars,repos&width=400&height=250&v=4) | ![GitHub Streak](https://john-oconnor.vercel.app/api/readme/streak?theme=light&width=400&height=250&v=4) | ![Top Languages](https://john-oconnor.vercel.app/api/readme/coding-stats?theme=light&langs_count=6&width=400&height=250&v=4) |
-
----
-
-## Contribution Skyline
-
-<div align="center">
-
-<!-- 3D Contribution Skyline -->
-![2025 Contributions](https://john-oconnor.vercel.app/api/readme/activity-skyline?theme=dark&year=2025&width=600&v=11)
-
-</div>
-
----
-
 **Get in touch:**
 
 [![Web Lifter](https://img.shields.io/badge/Web%20Lifter-Business%20Inquiries-0077B5?style=for-the-badge)](https://weblifter.com.au)
