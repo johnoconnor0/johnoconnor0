@@ -34,7 +34,7 @@ In my work, I blend technical depth with a strong sense of what users actually n
 
 [![Web Lifter](https://img.shields.io/badge/Web%20Lifter-Business%20Inquiries-0077B5?style=for-the-badge)](https://weblifter.com.au)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-oconnor0/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-333?style=for-the-badge&logo=safari&logoColor=white)](https://john-oconnor.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-333?style=for-the-badge&logo=safari&logoColor=white)](https://weblifter.com.au/featured-work)
 
 ---
 
